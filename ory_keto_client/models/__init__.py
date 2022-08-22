@@ -16,10 +16,10 @@ from ory_keto_client.model.get_relation_tuples_response import GetRelationTuples
 from ory_keto_client.model.get_version200_response import GetVersion200Response
 from ory_keto_client.model.health_not_ready_status import HealthNotReadyStatus
 from ory_keto_client.model.health_status import HealthStatus
-from ory_keto_client.model.internal_relation_tuple import InternalRelationTuple
 from ory_keto_client.model.is_alive200_response import IsAlive200Response
 from ory_keto_client.model.is_ready503_response import IsReady503Response
 from ory_keto_client.model.patch_delta import PatchDelta
 from ory_keto_client.model.relation_query import RelationQuery
+from ory_keto_client.model.relation_tuple import RelationTuple
 from ory_keto_client.model.subject_set import SubjectSet
 from ory_keto_client.model.version import Version

@@ -2,10 +2,42 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9c4e7f8c-528e-4281-a72a-ea4ae5f3516d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spec/v0.8.0-alpha.2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spec/v0.9.0-alpha.0.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.openapi-generator/FILES" beforeDir="false" afterPath="$PROJECT_DIR$/.openapi-generator/FILES" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.openapi-generator/VERSION" beforeDir="false" afterPath="$PROJECT_DIR$/.openapi-generator/VERSION" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/ExpandTree.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/ExpandTree.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/GetRelationTuplesResponse.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/GetRelationTuplesResponse.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/PatchDelta.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/PatchDelta.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/ReadApi.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/ReadApi.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/RelationQuery.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/RelationQuery.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/WriteApi.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/WriteApi.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ory_keto_client/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/ory_keto_client/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ory_keto_client/api/metadata_api.py" beforeDir="false" afterPath="$PROJECT_DIR$/ory_keto_client/api/metadata_api.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ory_keto_client/api/read_api.py" beforeDir="false" afterPath="$PROJECT_DIR$/ory_keto_client/api/read_api.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ory_keto_client/api/write_api.py" beforeDir="false" afterPath="$PROJECT_DIR$/ory_keto_client/api/write_api.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ory_keto_client/api_client.py" beforeDir="false" afterPath="$PROJECT_DIR$/ory_keto_client/api_client.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ory_keto_client/configuration.py" beforeDir="false" afterPath="$PROJECT_DIR$/ory_keto_client/configuration.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ory_keto_client/exceptions.py" beforeDir="false" afterPath="$PROJECT_DIR$/ory_keto_client/exceptions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ory_keto_client/model/expand_tree.py" beforeDir="false" afterPath="$PROJECT_DIR$/ory_keto_client/model/expand_tree.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ory_keto_client/model/generic_error.py" beforeDir="false" afterPath="$PROJECT_DIR$/ory_keto_client/model/generic_error.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ory_keto_client/model/get_check_response.py" beforeDir="false" afterPath="$PROJECT_DIR$/ory_keto_client/model/get_check_response.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ory_keto_client/model/get_relation_tuples_response.py" beforeDir="false" afterPath="$PROJECT_DIR$/ory_keto_client/model/get_relation_tuples_response.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ory_keto_client/model/get_version200_response.py" beforeDir="false" afterPath="$PROJECT_DIR$/ory_keto_client/model/get_version200_response.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ory_keto_client/model/health_not_ready_status.py" beforeDir="false" afterPath="$PROJECT_DIR$/ory_keto_client/model/health_not_ready_status.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ory_keto_client/model/health_status.py" beforeDir="false" afterPath="$PROJECT_DIR$/ory_keto_client/model/health_status.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ory_keto_client/model/is_alive200_response.py" beforeDir="false" afterPath="$PROJECT_DIR$/ory_keto_client/model/is_alive200_response.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ory_keto_client/model/is_ready503_response.py" beforeDir="false" afterPath="$PROJECT_DIR$/ory_keto_client/model/is_ready503_response.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ory_keto_client/model/patch_delta.py" beforeDir="false" afterPath="$PROJECT_DIR$/ory_keto_client/model/patch_delta.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ory_keto_client/model/relation_query.py" beforeDir="false" afterPath="$PROJECT_DIR$/ory_keto_client/model/relation_query.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ory_keto_client/model/subject_set.py" beforeDir="false" afterPath="$PROJECT_DIR$/ory_keto_client/model/subject_set.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ory_keto_client/model/version.py" beforeDir="false" afterPath="$PROJECT_DIR$/ory_keto_client/model/version.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ory_keto_client/model_utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/ory_keto_client/model_utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ory_keto_client/models/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/ory_keto_client/models/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ory_keto_client/rest.py" beforeDir="false" afterPath="$PROJECT_DIR$/ory_keto_client/rest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/setup.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,19 +55,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/georgy/workspace/github.com/forestvpn/ory-keto-client-python&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "dart.analysis.tool.window.visible": "false",
+    "last_opened_file_path": "/Users/georgy/workspace/github.com/forestvpn/ory-keto-client-python/spec",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/spec" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
@@ -48,7 +82,8 @@
       <option name="presentableId" value="Default" />
       <updated>1657299682724</updated>
       <workItem from="1657299684044" duration="17000" />
-      <workItem from="1657299711672" duration="660000" />
+      <workItem from="1657299711672" duration="4008000" />
+      <workItem from="1661189403214" duration="212000" />
     </task>
     <servers />
   </component>
